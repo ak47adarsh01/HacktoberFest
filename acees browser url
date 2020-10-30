@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>JavaScript</title>
+</head>
+<script>
+ function Goback(){
+     history.back
+    
+ }    
+    </script>
+    
+
+<body>
+   <a href="#" onclick="Goback();">Go back</a>
+   <a href="#" onclick="history.forward">Go Forward</a>
+
+    
+</body>
+</html>
